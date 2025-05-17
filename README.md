@@ -9,3 +9,9 @@ This repository contains the source code for a character classification project 
 **Prodi:** Robotika B Pagi - Semester 6  
 **Institusi:** Politeknik Negeri Batam
 
+## 📂 Dataset: [EMNIST by Crawford on Kaggle](https://www.kaggle.com/datasets/crawford/emnist)
+
+You can watch the project demo on YouTube:  
+🎥 [https://youtu.be/JL5ttMK9Yu8](https://youtu.be/JL5ttMK9Yu8)
+
+
